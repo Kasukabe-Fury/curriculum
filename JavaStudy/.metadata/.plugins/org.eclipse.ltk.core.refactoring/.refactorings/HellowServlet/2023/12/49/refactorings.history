@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HellowServlet.java&apos; to &apos;HellowServlet/src/main/java&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;HellowServlet&apos;&#x0D;&#x0A;- 宛先要素: &apos;HellowServlet/src/main/java&apos;&#x0D;&#x0A;- オリジナル要素: &apos;helloPackage.HellowServlet.java&apos;" description="コンパイル単位をコピー" destination="/src\/main\/java" element1="/src\/main\/java&lt;helloPackage{HellowServlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1702017558652" units="1" version="1.0"/>
+</session>

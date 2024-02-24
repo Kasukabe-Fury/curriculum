@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+C:\LetsEngineer\curriculum\JavaStudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3302720341.index
+\JspTest\src\main\java
+C:\LetsEngineer\curriculum\JavaStudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1323944471.index
+\MVC_Task\src\main\java
+C:\LetsEngineer\curriculum\JavaStudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3947397223.index
+\MVC_Task\src
+C:\LetsEngineer\curriculum\JavaStudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2236059030.index
+\MVC_Task\src\main\java
